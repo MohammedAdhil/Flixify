@@ -66,10 +66,5 @@ I still intend on continuing this project and expanding on some of it's features
 
 - [Full Stack Authentication with Next-Auth and Next.js 13: All You Need to Know](https://www.youtube.com/watch?v=0eu4_lLFkGk&t=527s) - This helped me while implementing the Authentication for the web app. I'd recommend it to anyone trying to laern authentication with Next Auth.
 
-## Author
-
-- Website - [Victor Williams](https://www.victorwilliams.me)
-- Frontend Mentor - [@victorcodess](https://www.frontendmentor.io/profile/victorcodess)
-- Twitter - [@victorwill__](https://www.twitter.com/victorwill__)
 
 
